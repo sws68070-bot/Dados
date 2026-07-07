@@ -8,7 +8,9 @@
     "friendCode": "KHWYMUR",
     "friends": [],
     "incomingRequests": [],
-    "outgoingRequests": [],
+    "outgoingRequests": [
+      "DDK"
+    ],
     "createdAt": 1783466235516
   },
   {
@@ -19,7 +21,9 @@
     "theme": "dark",
     "friendCode": "YTVNHTF",
     "friends": [],
-    "incomingRequests": [],
+    "incomingRequests": [
+      "DDX"
+    ],
     "outgoingRequests": [],
     "createdAt": 1783466335080
   }
