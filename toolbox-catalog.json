@@ -1,1 +1,12 @@
-
+[
+  {
+    "id": "3b90a69a-1ac5-4a24-a830-ea4a4a131e61",
+    "type": "model",
+    "title": "exemplo",
+    "author": "DNC",
+    "thumbnail": "",
+    "addedAt": 1783366671667,
+    "nodeData": "{\"id\":\"bp\",\"name\":\"Placa_base\",\"className\":\"Part\",\"expanded\":false,\"children\":[],\"properties\":{\"Color\":\"#3a5f3a\",\"Size\":{\"x\":100,\"y\":1,\"z\":100},\"Position\":{\"x\":0,\"y\":-0.5,\"z\":0},\"Rotation\":{\"x\":0,\"y\":0,\"z\":0},\"Visibilidade\":true,\"CanCollide\":true,\"Anchored\":true,\"Material\":\"Concrete\"}}",
+    "sourceClassName": "Part"
+  }
+]
