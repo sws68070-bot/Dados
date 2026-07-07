@@ -10,5 +10,17 @@
     "incomingRequests": [],
     "outgoingRequests": [],
     "createdAt": 1783466235516
+  },
+  {
+    "id": "615359fd-46fa-419e-a7ab-a393d413e27c",
+    "username": "DDK",
+    "passwordHash": "9f2e211c3504096683f16facf83039ac1ff0a16222f3c04ab0991081272d7af3",
+    "photo": "",
+    "theme": "dark",
+    "friendCode": "YTVNHTF",
+    "friends": [],
+    "incomingRequests": [],
+    "outgoingRequests": [],
+    "createdAt": 1783466335080
   }
 ]
