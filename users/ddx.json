@@ -4,6 +4,14 @@
   "lastSeen": 1783466527456,
   "currentRoom": "6CBFJ2",
   "photo": "",
-  "requests": [],
+  "requests": [
+    {
+      "id": "c064b12b-27de-4809-9a03-e2ce9b9c9f64",
+      "fromId": "615359fd-46fa-419e-a7ab-a393d413e27c",
+      "fromUsername": "DDK",
+      "roomCode": "6CBFJ2",
+      "ts": 1783466536943
+    }
+  ],
   "inbox": []
 }
