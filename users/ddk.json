@@ -5,5 +5,11 @@
   "currentRoom": null,
   "photo": "",
   "requests": [],
-  "inbox": []
+  "inbox": [
+    {
+      "type": "join-decline",
+      "byUsername": "DDX",
+      "ts": 1783467270000
+    }
+  ]
 }
