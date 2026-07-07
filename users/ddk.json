@@ -4,6 +4,14 @@
   "lastSeen": 1783467336176,
   "currentRoom": "ZTJQM2",
   "photo": "",
-  "requests": [],
+  "requests": [
+    {
+      "id": "b7971b55-f138-4ccd-a4bc-611675a38d8d",
+      "fromId": "797b2504-8d0d-4472-a237-e29c774e1af0",
+      "fromUsername": "DDX",
+      "roomCode": "ZTJQM2",
+      "ts": 1783467339435
+    }
+  ],
   "inbox": []
 }
