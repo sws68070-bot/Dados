@@ -6,11 +6,11 @@
     "photo": "",
     "theme": "dark",
     "friendCode": "KHWYMUR",
-    "friends": [],
-    "incomingRequests": [],
-    "outgoingRequests": [
+    "friends": [
       "DDK"
     ],
+    "incomingRequests": [],
+    "outgoingRequests": [],
     "createdAt": 1783466235516
   },
   {
@@ -20,10 +20,10 @@
     "photo": "",
     "theme": "dark",
     "friendCode": "YTVNHTF",
-    "friends": [],
-    "incomingRequests": [
+    "friends": [
       "DDX"
     ],
+    "incomingRequests": [],
     "outgoingRequests": [],
     "createdAt": 1783466335080
   }
