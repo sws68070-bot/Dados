@@ -9,6 +9,13 @@
       "username": "DDK",
       "joinedAt": 1783523675149,
       "lastSeen": 1783523698373
+    },
+    {
+      "id": "797b2504-8d0d-4472-a237-e29c774e1af0",
+      "username": "DDX",
+      "joinedAt": 1783523704936,
+      "lastSeen": 1783523704936,
+      "viewOnly": false
     }
   ],
   "kicked": []
