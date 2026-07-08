@@ -11,6 +11,12 @@
       "roomCode": "RERXRA",
       "byUsername": "DDK",
       "ts": 1783478692216
+    },
+    {
+      "type": "room-invite",
+      "roomCode": "RERXRA",
+      "byUsername": "DDK",
+      "ts": 1783478694444
     }
   ]
 }
