@@ -23,7 +23,9 @@
     "friends": [
       "DDX"
     ],
-    "incomingRequests": [],
+    "incomingRequests": [
+      "kaiquepro123"
+    ],
     "outgoingRequests": [],
     "createdAt": 1783466335080
   },
@@ -36,7 +38,9 @@
     "friendCode": "53RSDRV",
     "friends": [],
     "incomingRequests": [],
-    "outgoingRequests": [],
+    "outgoingRequests": [
+      "DDK"
+    ],
     "createdAt": 1783632590518
   }
 ]
