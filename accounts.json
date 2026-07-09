@@ -9,7 +9,9 @@
     "friends": [
       "DDK"
     ],
-    "incomingRequests": [],
+    "incomingRequests": [
+      "kaiquepro123"
+    ],
     "outgoingRequests": [],
     "createdAt": 1783466235516
   },
@@ -39,7 +41,8 @@
     "friends": [],
     "incomingRequests": [],
     "outgoingRequests": [
-      "DDK"
+      "DDK",
+      "DDX"
     ],
     "createdAt": 1783632590518
   }
