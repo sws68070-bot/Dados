@@ -11,6 +11,12 @@
       "roomCode": "J9DCZG",
       "byUsername": "DDK",
       "ts": 1783633309453
+    },
+    {
+      "type": "room-invite",
+      "roomCode": "J9DCZG",
+      "byUsername": "DDK",
+      "ts": 1783633311799
     }
   ]
 }
