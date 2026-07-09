@@ -22,11 +22,10 @@
     "theme": "dark",
     "friendCode": "YTVNHTF",
     "friends": [
-      "DDX"
-    ],
-    "incomingRequests": [
+      "DDX",
       "kaiquepro123"
     ],
+    "incomingRequests": [],
     "outgoingRequests": [],
     "createdAt": 1783466335080
   },
@@ -38,12 +37,11 @@
     "theme": "dark",
     "friendCode": "53RSDRV",
     "friends": [
-      "DDX"
-    ],
-    "incomingRequests": [],
-    "outgoingRequests": [
+      "DDX",
       "DDK"
     ],
+    "incomingRequests": [],
+    "outgoingRequests": [],
     "createdAt": 1783632590518
   }
 ]
