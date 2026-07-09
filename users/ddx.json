@@ -5,5 +5,11 @@
   "currentRoom": null,
   "photo": "",
   "requests": [],
-  "inbox": []
+  "inbox": [
+    {
+      "type": "friend-request",
+      "byUsername": "kaiquepro123",
+      "ts": 1783633079527
+    }
+  ]
 }
