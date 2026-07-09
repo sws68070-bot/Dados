@@ -7,11 +7,10 @@
     "theme": "dark",
     "friendCode": "KHWYMUR",
     "friends": [
-      "DDK"
-    ],
-    "incomingRequests": [
+      "DDK",
       "kaiquepro123"
     ],
+    "incomingRequests": [],
     "outgoingRequests": [],
     "createdAt": 1783466235516
   },
@@ -38,11 +37,12 @@
     "photo": "",
     "theme": "dark",
     "friendCode": "53RSDRV",
-    "friends": [],
+    "friends": [
+      "DDX"
+    ],
     "incomingRequests": [],
     "outgoingRequests": [
-      "DDK",
-      "DDX"
+      "DDK"
     ],
     "createdAt": 1783632590518
   }
