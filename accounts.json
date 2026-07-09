@@ -26,5 +26,17 @@
     "incomingRequests": [],
     "outgoingRequests": [],
     "createdAt": 1783466335080
+  },
+  {
+    "id": "9b9ad2b3-9a2e-4c2b-811c-8bbe79277ab8",
+    "username": "kaiquepro123",
+    "passwordHash": "b8db18c23a14936f2ec67ccf62ae7a4e5138ea1525294eddc8f9cfad091dfb1f",
+    "photo": "",
+    "theme": "dark",
+    "friendCode": "53RSDRV",
+    "friends": [],
+    "incomingRequests": [],
+    "outgoingRequests": [],
+    "createdAt": 1783632590518
   }
 ]
