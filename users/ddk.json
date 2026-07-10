@@ -5,5 +5,12 @@
   "currentRoom": null,
   "photo": "",
   "requests": [],
-  "inbox": []
+  "inbox": [
+    {
+      "type": "room-invite",
+      "roomCode": "Z2UGXC",
+      "byUsername": "DDX",
+      "ts": 1783724724903
+    }
+  ]
 }
