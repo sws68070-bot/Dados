@@ -17,6 +17,12 @@
       "roomCode": "2HJSUL",
       "byUsername": "DDX",
       "ts": 1783789852684
+    },
+    {
+      "type": "room-invite",
+      "roomCode": "2HJSUL",
+      "byUsername": "DDX",
+      "ts": 1783789853912
     }
   ]
 }
