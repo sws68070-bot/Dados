@@ -33,7 +33,8 @@
       "HeadColor": "#ffcc99",
       "ArmColor": "#ffcc99",
       "LegColor": "#333333",
-      "PartSizes": {}
+      "PartSizes": {},
+      "Textures": {}
     }
   },
   {
