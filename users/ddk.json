@@ -11,6 +11,12 @@
       "roomCode": "DSVK59",
       "byUsername": "DDX",
       "ts": 1783789368279
+    },
+    {
+      "type": "room-invite",
+      "roomCode": "DSVK59",
+      "byUsername": "DDX",
+      "ts": 1783789385423
     }
   ]
 }
