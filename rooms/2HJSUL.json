@@ -8,15 +8,10 @@
       "id": "797b2504-8d0d-4472-a237-e29c774e1af0",
       "username": "DDX",
       "joinedAt": 1783789838940,
-      "lastSeen": 1783789900927
-    },
-    {
-      "id": "615359fd-46fa-419e-a7ab-a393d413e27c",
-      "username": "DDK",
-      "joinedAt": 1783789867917,
-      "lastSeen": 1783789910208,
-      "viewOnly": false
+      "lastSeen": 1783789921681
     }
   ],
-  "kicked": []
+  "kicked": [
+    "615359fd-46fa-419e-a7ab-a393d413e27c"
+  ]
 }
