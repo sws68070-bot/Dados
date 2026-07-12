@@ -1,5 +1,16 @@
 [
   {
+    "id": "dc66a35b-5c08-422e-873e-b090ec443e12",
+    "type": "animation",
+    "title": "gg",
+    "author": "Anônimo",
+    "ownerId": null,
+    "thumbnail": "",
+    "addedAt": 1783832168755,
+    "nodeData": "{\"id\":\"rbx-mrhbk5a0-qwkt0z8\",\"name\":\"P\",\"className\":\"Animator\",\"expanded\":false,\"children\":[],\"properties\":{\"TargetModel\":\"rbx-mrhbk59z-foo7elw\",\"keyframes\":{\"Torso\":[{\"t\":0,\"pos\":{\"x\":5.685806573030794,\"y\":3.5,\"z\":2.878225689529893},\"rot\":{\"x\":0,\"y\":0,\"z\":0},\"size\":{\"x\":2,\"y\":2,\"z\":1}},{\"t\":1.9,\"pos\":{\"x\":5.7,\"y\":3.5,\"z\":-99.4},\"rot\":{\"x\":0,\"y\":0,\"z\":0},\"size\":{\"x\":2,\"y\":2,\"z\":1}}]},\"cameraKeyframes\":[],\"soundEvents\":[],\"markers\":[],\"Duration\":2}}",
+    "sourceClassName": "Animator"
+  },
+  {
     "id": "3b90a69a-1ac5-4a24-a830-ea4a4a131e61",
     "type": "model",
     "title": "exemplo",
